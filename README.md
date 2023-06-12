@@ -34,7 +34,6 @@ Specifically, the problem can be formed as follows: Consider a 2D grid instantia
 * Additionally, we also make sure the node is within the boundary
 * To find the RRT path, we used backtracking of all the parent nodes in the tree structure. 
 * We also find the wheel trajectories for all three wheels of the robot by following the RRT path.
-    ![Alt text](https://github.com/ombarde/Robotic-Path-Planning/blob/main/images/non_holo_wheel.png)
     <img src="./images/holo_wheels.png" width="500" height="500">
 
 ## Working of RRT for non-holonomic case
